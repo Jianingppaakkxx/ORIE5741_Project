@@ -10,3 +10,6 @@
 * Our project aims to shed light on the investment strategies for investors in the financial market. While investors need to make informed decisions based on accurate predictions of asset price moving directions to decide whether to long or short an asset, this is a complex and challenging task as the financial market is influenced by multiple factors and it is hard to explore this complex logic through a fundamental approach. Therefore, if we can develop a machine learning model to predict asset price moving direction with high accuracy and in real-time, we will help investors to process vast amounts of data in real-time, to make accurate and up-to-date predictions and to make wise investments.
 ## Course Code
 * 5741
+
+## Video Presentation Link
+https://youtu.be/lqkq_HxJSmQ
